@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our dino world, where we bring dinosaurs back to life! Our app is like a virtual dino world, where you can explore various types of dinosaurs from different eras and regions.We've curated a collection of fascinating information about these ancient creatures.Step into our virtual dino world, a realm teeming with the majestic creatures that once ruled the Earth. Powered by meticulous data sourced from the renowned <a href="https://www.nhm.ac.uk/discover/dinosaurs.html" style="color:orange">National History Museum</a>, this app offers an immersive experience like no other, inviting you to embark on a thrilling journey of discovery through the depths of time.
+Welcome to our dino world, where we bring dinosaurs back to life! Our app is like a virtual dino world, where you can explore various types of dinosaurs from different eras and regions. We've curated a collection of fascinating information about these ancient creatures. Step into our virtual dino world, a realm teeming with the majestic creatures that once ruled the Earth. Powered by meticulous data sourced from the renowned <a href="https://www.nhm.ac.uk/discover/dinosaurs.html" style="color:orange">National History Museum</a>, this app offers an immersive experience like no other, inviting you to embark on a thrilling journey of discovery through the depths of time.
 
 <h3 style="font-size:2rem">Your entry into our Dino world</h3>
 <img src="./dinosaur_app/public/readme-images/readme-hero-image.png"/>
